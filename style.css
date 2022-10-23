@@ -1,0 +1,60 @@
+/* root */
+/* Don't touch this please! */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Find your name please and start coding there! */
+/* If you want to use :hover to your class put it in hover media! The code will work on hoverable devices only!  */
+
+/* Bahareh */
+/* add your style here! */
+
+
+
+
+/* Hengameh */
+/* add your style here! */
+
+
+
+
+/* Paria */
+/* add your style here! */
+
+
+
+
+/* Shayan */
+/* add your style here! */
+
+
+
+
+/* Mana */
+/* add your style here! */
+
+
+
+
+/* Hover media */
+@media (hover: hover){
+
+}
+
+/* Screens */
+/* Tablet Screen */
+@media screen and (max-width: 820px){
+/* Don't add anything here! */
+
+}
+
+
+/* Phone Screen */
+@media screen and (max-width: 489px){
+/* Don't add anything here! */
+
+}
