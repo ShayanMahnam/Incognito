@@ -4,8 +4,8 @@ This is our first teamwork project at CYF!
 
 # GOALS
 
-Learn how to use GIT/GitHub__
-Learn how to push__
-Learn how to Pull Request__
-Learn how to merge__
-Learn how to work together!!!__ 
+Learn how to use GIT/GitHub<br />
+Learn how to push<br />
+Learn how to Pull Request<br />
+Learn how to merge<br />
+Learn how to work together!!!<br /> 
